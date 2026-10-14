@@ -39,3 +39,12 @@ b <- 10
 Area <- a*b
 ```
 
+# ÁREA TRAPECIO
+
+```{r}
+b <- 2
+B <- 7
+H <- 3
+Area <- (B+b)/2 * H
+```
+
