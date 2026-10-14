@@ -1,0 +1,18 @@
+---
+title: "Area"
+author: "Carla Ortega Fernández"
+date: "2026-10-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# ÁREA CÍRCULO
+
+```{r}
+r <- 0.5
+Area <- pi*r^2
+```
+
