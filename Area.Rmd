@@ -22,3 +22,20 @@ Area <- pi*r^2
 a <- 3
 Area <- a^2
 ```
+
+# ÁREA TRIÁNGULO
+
+```{r}
+a <- 3
+h <- 4
+Area <- (b*h)/2
+```
+
+# AREA RECTÁNGULO
+
+```{r}
+a <- 4
+b <- 10
+Area <- a*b
+```
+
